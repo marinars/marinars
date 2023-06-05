@@ -1,10 +1,10 @@
 Olá, sou Marina Rosa 🌹
 
-- 🔭 Hoje Trabalho como Quality Assurance
-- 🌱 Estudando Ruby e Python   <img align="center" alt="Marina-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> <img align="center" alt="Marina-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-- 💬 Pergunte-me sobre Testes de Software
-- 📫 contacte-me no email: marinarosasilva3@gmail.com
-- 😄 Pronouns: ela/dela
+- 🔭 Today I work as Quality Assurance
+- 🌱 Studying Ruby and Python  <img align="center" alt="Marina-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> <img align="center" alt="Marina-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+- 💬 Ask Me About Software Testing
+- 📫 Contact me on email: marinarosasilva3@gmail.com
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/marinars">
