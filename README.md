@@ -1,4 +1,4 @@
-Olá, sou Marina Rosa 🌹
+Hello, I'm Marina Rosa 🌹
 
 - 🔭 Today I work as Quality Assurance
 - 🌱 Studying Ruby and Python  <img align="center" alt="Marina-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> <img align="center" alt="Marina-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
